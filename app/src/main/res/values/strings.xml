@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Manzana Verde</string>
+    <string name="login">Iniciar sesion</string>
+    <string name="redes">Con tu red social</string>
+    <string name="email">Con tu correo</string>
+    <string name="pass">Contraseña</string>
+    <string name="enter">Continuar con tu celular</string>
+
+</resources>
